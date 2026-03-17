@@ -10,13 +10,17 @@ Schematic:
 ![Description](images/Schematic.png)
 
 PCB (front):
+
 ![Description](images/PCB_Front.png)
 
 PCB (back):
+
 ![Description](images/PCB_Back.png)
 
 3D View (top):
+
 ![Description](images/3D_View_Top.png)
 
 3D View (bottom):
+
 ![Description](images/3D_View_Bottom.png)
